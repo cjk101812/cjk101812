@@ -8,5 +8,6 @@ and I'm super passionate about frontend frameworks and API development.  I love 
 - Catch me live coding on <a href="https://twitch.tv/ThatsRadCullen">Twitch</a>! <a href="https://twitch.tv/ThatsRadCullen">
   <img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png" height="15px"/>
 </a>
+
 - Check out my portfolio site! <a href="cullenkirkpatrick.co">cullenkirkpatrick.co</a>
 - Connect on <a href="https://www.linkedin.com/in/cullenkirkpatrick/">LinkedIn</a>
