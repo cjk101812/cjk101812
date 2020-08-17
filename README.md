@@ -1,4 +1,4 @@
-![Banner](Github_Banner.gif)
+![Banner](https://github.com/cjk101812/cjk101812/blob/master/Github_Banner.gif?raw=true)
 
 <!--
 **cjk101812/cjk101812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
