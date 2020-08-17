@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](Github_Banner.gif)
 
 <!--
 **cjk101812/cjk101812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
