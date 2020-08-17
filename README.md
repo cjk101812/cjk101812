@@ -6,5 +6,5 @@ and I'm super passionate about frontend frameworks and API development.  I love 
 
 # Where in time is Cullen Sandiego
 - Catch me live coding on <a href="https://twitch.tv/ThatsRadCullen" target="_blank">Twitch</a>! :metal:
-- Keep up with me on <a href="cullenkirkpatrick.co" target="_blank">cullenkirkpatrick.co</a>! :tada:
+- Keep up with me on <a href="http://cullenkirkpatrick.co" target="_blank">cullenkirkpatrick.co</a>! :tada:
 - Connect on <a href="https://www.linkedin.com/in/cullenkirkpatrick/" target="_blank">LinkedIn</a>. :briefcase:
